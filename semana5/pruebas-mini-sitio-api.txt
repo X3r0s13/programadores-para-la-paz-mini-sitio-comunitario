@@ -1,8 +1,8 @@
 Pruebas del mini-sitio y API – Clase 21
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: David Casanova
+Fecha: 14 de mayo del 2026
+Nombre de la rama: david_casanova
 
 Prueba 1: Abrir mini-sitio
 
@@ -15,7 +15,7 @@ El navegador muestra el mini-sitio comunitario.
 Resultado observado:
 
 ¿Funcionó?
-Respuesta:
+Respuesta: Funciona con normalidad.
 
 Prueba 2: Cargar mensajes
 
@@ -28,7 +28,7 @@ Aparecen mensajes comunitarios con título, mensaje, categoría, audiencia, tono
 Resultado observado:
 
 ¿Funcionó?
-Respuesta:
+Respuesta: Funciona con normalidad.
 
 Prueba 3: Cargar calendario editorial
 
@@ -41,23 +41,23 @@ Aparecen 6 piezas del calendario editorial.
 Resultado observado:
 
 ¿Funcionó?
-Respuesta:
+Respuesta: Funciona con normalidad.
 
 Prueba 4: Ruta directa de mensajes
 
 Ruta:
 http://localhost:3000/api/mensajes
 
-Resultado observado:
+Resultado observado: Funciona con normalidad.
 
 Prueba 5: Ruta directa de calendario
 
 Ruta:
 http://localhost:3000/api/calendario
 
-Resultado observado:
+Resultado observado: Funciona con normalidad.
 
 Conclusión:
 ¿Qué prueba te ayudó más a entender cómo el mini-sitio consume la API?
 
-Respuesta:
+Respuesta: Si, interactuar con la pagina hace que se pueda ententer mejor como funciona cada parte de ella.

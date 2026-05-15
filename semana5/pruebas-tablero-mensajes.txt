@@ -1,8 +1,8 @@
 Pruebas del tablero de mensajes – Clase 22
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: David Casanova
+Fecha: 14 de mayo del 2026
+Nombre de la rama: david_casanova
 
 Prueba 1: Abrir mini-sitio
 
@@ -15,7 +15,7 @@ El mini-sitio abre correctamente y muestra estructura visual con estilos.
 Resultado observado:
 
 ¿Funcionó?
-Respuesta:
+Respuesta: Funciona con normalidad.
 
 Prueba 2: Verificar hoja de estilos
 
@@ -28,7 +28,7 @@ La página muestra fondo, secciones, botones y tarjetas con estilos básicos.
 Resultado observado:
 
 ¿Funcionó?
-Respuesta:
+Respuesta: Funciona con normalidad.
 
 Prueba 3: Cargar mensajes
 
@@ -41,7 +41,7 @@ Los mensajes aparecen como tarjetas legibles.
 Resultado observado:
 
 ¿Funcionó?
-Respuesta:
+Respuesta: Funciona con normalidad.
 
 Prueba 4: Revisar datos visibles
 
@@ -57,7 +57,7 @@ fuente
 Resultado observado:
 
 ¿Aparecen datos innecesarios?
-Respuesta:
+Respuesta: No, todos los datos que son visibles por el usuario son necesarios.
 
 Prueba 5: Cargar calendario
 
@@ -70,9 +70,9 @@ El calendario aparece como tarjetas con información resumida.
 Resultado observado:
 
 ¿Funcionó?
-Respuesta:
+Respuesta: Funciona con normalidad.
 
 Conclusión:
 ¿Qué mejora visual ayudó más a entender la información comunitaria?
 
-Respuesta:
+Respuesta: Son dos, una de ellas la linea vertical de color (.tarjetamensaje) y las negrillas en cada item.

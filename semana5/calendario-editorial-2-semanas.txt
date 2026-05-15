@@ -1,8 +1,8 @@
 Calendario editorial de 2 semanas – Clase 21
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: David Casanova
+Fecha: 14 de mayo del 2026
+Nombre de la rama: david_casanova
 
 Tema general de la campaña comunitaria:
 
@@ -10,114 +10,113 @@ Respuesta:
 
 Pieza 1
 
-Semana:
-Día:
-Fecha:
-Tema:
-Tipo de pieza:
-Canal:
-Público objetivo:
-Propósito:
-Responsable:
-Mensaje:
-Tono:
-Llamado a la acción:
-Fuente o criterio de verificación:
-Observaciones editoriales:
+Semana: 1
+Día: Lunes
+Fecha: 19 de mayo de 2026
+Tema: Recuperación de espacios públicos
+Tipo de pieza: Afiche impreso
+Canal: Cartelera comunal
+Público objetivo: Vecinos del sector
+Propósito: Motivar la participación en la jornada de limpieza del parque
+Responsable: Junta de acción comunal
+Mensaje: Un parque limpio también habla del cuidado que tenemos por nuestra comunidad.
+Tono: Comunitario y positivo
+Llamado a la acción: Participa este sábado en la jornada de limpieza y embellecimiento.
+Fuente o criterio de verificación: Información coordinada con líderes barriales.
+Observaciones editoriales: Usar fotografías reales del parque del sector.
 ¿Usa lenguaje responsable y no estigmatizante?
-Respuesta:
+Respuesta: Sí, promueve la participación sin señalar ni culpabilizar a ningún grupo.
 
 Pieza 2
 
-Semana:
-Día:
-Fecha:
-Tema:
-Tipo de pieza:
-Canal:
-Público objetivo:
-Propósito:
-Responsable:
-Mensaje:
-Tono:
-Llamado a la acción:
-Fuente o criterio de verificación:
-Observaciones editoriales:
+Semana: 1
+Día: Miércoles
+Fecha: 21 de mayo de 2026
+Tema: Respeto entre vecinos
+Tipo de pieza: Cuña radial
+Canal: Emisora comunitaria
+Público objetivo: Adultos y familias
+Propósito: Sensibilizar sobre la importancia de resolver conflictos mediante el diálogo
+Responsable: Comité de convivencia
+Mensaje: Escuchar antes de reaccionar puede evitar muchos problemas entre vecinos.
+Tono: Reflexivo y cercano
+Llamado a la acción: Practiquemos el respeto y la buena convivencia todos los días.
+Fuente o criterio de verificación: Orientaciones de convivencia ciudadana.
+Observaciones editoriales: Utilizar voces naturales y lenguaje cotidiano.
 ¿Usa lenguaje responsable y no estigmatizante?
-Respuesta:
+Respuesta: Sí, utiliza mensajes respetuosos y enfocados en soluciones.
 
 Pieza 3
 
-Semana:
-Día:
-Fecha:
-Tema:
-Tipo de pieza:
-Canal:
-Público objetivo:
-Propósito:
-Responsable:
-Mensaje:
-Tono:
-Llamado a la acción:
-Fuente o criterio de verificación:
-Observaciones editoriales:
+Semana: 2
+Día: Viernes
+Fecha: 30 de mayo de 2026
+Tema: Apoyo al comercio local
+Tipo de pieza: Volante informativo
+Canal: Entrega puerta a puerta
+Público objetivo: Residentes y comerciantes
+Propósito: Incentivar las compras en negocios del barrio
+Responsable: Asociación de comerciantes
+Mensaje: Comprar en el barrio ayuda a fortalecer la economía de muchas familias cercanas.
+Tono: Cercano y motivador
+Llamado a la acción: Esta semana compra en los negocios de tu comunidad.
+Fuente o criterio de verificación: Información entregada por comerciantes locales.
+Observaciones editoriales: Incluir mapa sencillo de negocios participantes.
 ¿Usa lenguaje responsable y no estigmatizante?
-Respuesta:
+Respuesta: Sí, promueve la inclusión y el apoyo colectivo.
 
 Pieza 4
 
-Semana:
-Día:
-Fecha:
-Tema:
-Tipo de pieza:
-Canal:
-Público objetivo:
-Propósito:
-Responsable:
-Mensaje:
-Tono:
-Llamado a la acción:
-Fuente o criterio de verificación:
-Observaciones editoriales:
+Semana: 2
+Día: Domingo
+Fecha: 1 de junio de 2026
+Tema: Participación juvenil
+Tipo de pieza: Video testimonial
+Canal: Pantalla en casa comunal
+Público objetivo: Jóvenes del sector
+Propósito: Motivar la participación de jóvenes en actividades culturales y deportivas
+Responsable: Coordinación juvenil
+Mensaje: Los jóvenes también construyen comunidad con sus ideas y talentos.
+Tono: Inspirador y dinámico
+Llamado a la acción: Inscríbete en las actividades deportivas y culturales del barrio.
+Fuente o criterio de verificación: Agenda comunitaria local.
+Observaciones editoriales: Mostrar jóvenes reales de la comunidad.
 ¿Usa lenguaje responsable y no estigmatizante?
-Respuesta:
+Respuesta: Sí, reconoce el aporte juvenil de manera positiva y respetuosa.
 
 Pieza 5
 
-Semana:
-Día:
-Fecha:
-Tema:
-Tipo de pieza:
-Canal:
-Público objetivo:
-Propósito:
-Responsable:
-Mensaje:
-Tono:
-Llamado a la acción:
-Fuente o criterio de verificación:
-Observaciones editoriales:
+Semana: 3
+Día: Martes
+Fecha: 10 de junio de 2026
+Tema: Cuidado del agua
+Tipo de pieza: Mural comunitario
+Canal: Espacio público del barrio
+Público objetivo: Comunidad general
+Propósito: Promover el uso responsable del agua en los hogares
+Responsable: Grupo ambiental comunitario
+Mensaje: Cada gota cuenta cuando todos hacemos parte del cambio.
+Tono: Educativo y participativo
+Llamado a la acción: Reduce el desperdicio de agua en actividades diarias.
+Fuente o criterio de verificación: Recomendaciones ambientales municipales.
+Observaciones editoriales: Diseño colorido y fácil de entender para niños y adultos.
 ¿Usa lenguaje responsable y no estigmatizante?
-Respuesta:
+Respuesta: Sí, comunica el mensaje desde la corresponsabilidad y el respeto.
 
 Pieza 6
 
-Semana:
-Día:
-Fecha:
-Tema:
-Tipo de pieza:
-Canal:
-Público objetivo:
-Propósito:
-Responsable:
-Mensaje:
-Tono:
-Llamado a la acción:
-Fuente o criterio de verificación:
-Observaciones editoriales:
+Día: Jueves
+Fecha: 12 de junio de 2026
+Tema: Seguridad comunitaria
+Tipo de pieza: Reunión informativa
+Canal: Salón comunal
+Público objetivo: Líderes comunitarios y residentes
+Propósito: Informar sobre medidas de prevención y trabajo conjunto entre vecinos
+Responsable: Frente de seguridad barrial
+Mensaje: Una comunidad organizada puede prevenir situaciones de riesgo.
+Tono: Formal y colaborativo
+Llamado a la acción: Asiste a la reunión y participa con tus propuestas.
+Fuente o criterio de verificación: Información coordinada con autoridades locales y líderes comunitarios.
+Observaciones editoriales: Evitar mensajes alarmistas o de miedo.
 ¿Usa lenguaje responsable y no estigmatizante?
-Respuesta:
+Respuesta: Sí, evita señalar personas o grupos específicos y fomenta la cooperación comunitaria.
