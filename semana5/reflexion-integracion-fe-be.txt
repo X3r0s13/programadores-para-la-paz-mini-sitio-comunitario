@@ -1,0 +1,43 @@
+Reflexión sobre integración Frontend-Backend – Clase 23
+
+Nombre del estudiante: David Casanova
+Fecha: 15 de mayo del 2026
+Nombre de la rama: david_casanova
+
+Escribe una reflexión de 8 a 10 líneas respondiendo:
+
+¿Por qué conectar el frontend con el backend ayuda a que un mini-sitio comunitario mantenga 
+información dinámica, actualizable y útil para la comunidad?
+
+En tu respuesta menciona al menos cinco de estas ideas:
+
+- integración Frontend-Backend
+- consumo de la API propia
+- mensajes dinámicos
+- frontend
+- backend
+- API
+- JSON
+- fetch
+- async
+- await
+- render dinámico
+- comunicación responsable
+- revisión de fuentes
+- consistencia comunicativa
+- moderación editorial básica
+- participación ciudadana
+- cultura de paz
+
+Respuesta:
+
+La integración Frontend-Backend permite que un mini-sitio comunitario muestre información dinámica y siempre 
+actualizada para los usuarios. Gracias al consumo de la API propia, el frontend puede obtener datos organizados 
+desde el backend usando archivos JSON. Con herramientas como fetch, async y await, la comunicación entre ambas 
+partes se vuelve más rápida y eficiente. Además, el render dinámico ayuda a mostrar mensajes dinámicos sin 
+necesidad de modificar manualmente la página cada vez. Esto facilita mantener una comunicación responsable y 
+mejorar la consistencia comunicativa del contenido publicado. También es importante la revisión de 
+fuentes y la moderación editorial básica para evitar información incorrecta. Un sistema así ayuda a 
+fortalecer la participación ciudadana porque la comunidad puede acceder a información útil en tiempo real. 
+Finalmente, este tipo de proyectos digitales también promueven una cultura de paz al compartir contenido 
+organizado, confiable y accesible para todos.

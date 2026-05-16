@@ -1,0 +1,68 @@
+Checklist de API propia – Clase 23
+
+Nombre del estudiante: David Casanova
+Fecha: 15 de mayo del 2026
+Nombre de la rama: david_casanova
+
+Marca SÍ o NO y explica brevemente.
+
+1. Integración Frontend-Backend
+
+¿El frontend consulta información del backend?
+
+Respuesta: SÍ. El frontend utiliza fetch para solicitar datos al backend y mostrarlos dinámicamente en la página.
+
+2. Consumo de la API propia
+
+¿La página usa rutas del mismo proyecto?
+
+Respuesta: SÍ. El sitio utiliza rutas propias como /api/mensajes, /api/calendario y /api/resumen.
+
+3. Mensajes dinámicos
+
+¿Los mensajes aparecen desde datos consultados y no solo desde HTML fijo?
+
+Respuesta: SÍ. Los mensajes se cargan desde archivos JSON mediante la API y aparecen dinámicamente.
+
+4. Ruta GET /api/mensajes
+
+¿La ruta responde correctamente?
+
+Respuesta: SÍ. La ruta devuelve correctamente los mensajes en formato JSON.
+
+5. Ruta GET /api/calendario
+
+¿La ruta responde correctamente?
+
+Respuesta: SÍ. La API entrega correctamente la información del calendario editorial.
+
+
+6. Ruta GET /api/resumen
+
+¿La ruta responde correctamente?
+
+Respuesta: SÍ. La ruta genera correctamente el resumen con los datos del proyecto.
+
+7. Respuesta JSON
+
+¿Las rutas entregan datos estructurados?
+
+Respuesta: SÍ. Todas las rutas responden utilizando formato JSON organizado y entendible.
+
+8. Render dinámico
+
+¿El tablero muestra datos recibidos desde la API?
+
+Respuesta: SÍ. El frontend renderiza automáticamente la información obtenida desde la API.
+
+9. Diagnóstico básico
+
+¿Sabes qué revisar si no carga la información?
+
+Respuesta: SÍ. Revisaría el servidor, las rutas API, errores en consola, fetch y la conexión entre frontend y backend.
+
+10. Comunicación responsable
+
+¿Los datos dinámicos mantienen claridad, fuente y lenguaje adecuado?
+
+Respuesta: SÍ. El contenido utiliza lenguaje claro, organizado y mantiene una comunicación apropiada para la comunidad.

@@ -1,8 +1,10 @@
 const btnMensajes = document.getElementById("btnMensajes")
 const btnCalendario = document.getElementById("btnCalendario")
+const btnResumen = document.getElementById("btnResumen")
 
 const contenedorMensajes = document.getElementById("contenedorMensajes")
 const contenedorCalendario = document.getElementById("contenedorCalendario")
+const contenedorResumen = document.getElementById("contenedorResumen")
 
 btnMensajes.addEventListener("click", () => {
   cargarMensajes()
@@ -10,6 +12,10 @@ btnMensajes.addEventListener("click", () => {
 
 btnCalendario.addEventListener("click", () => {
   cargarCalendario()
+})
+
+btnResumen.addEventListener("click", () => {
+  cargarResumen()
 })
 
 async function cargarMensajes() {
@@ -35,6 +41,7 @@ async function cargarMensajes() {
 
         <p><strong>Llamado a la acción:</strong> ${mensaje.llamadoAccion}</p>
         <p class="texto-secundario"><strong>Fuente:</strong> ${mensaje.fuente}</p>
+        <p class="texto-secundario"><strong>Revisión editorial:</strong> ${mensaje.revisionEditorial}</p>
       `
 
       contenedorMensajes.appendChild(tarjeta)
@@ -70,5 +77,29 @@ async function cargarCalendario() {
     }
   } catch (error) {
     contenedorCalendario.textContent = "No fue posible cargar el calendario editorial. Revisa que el servidor esté funcionando."
+  }
+}
+
+async function cargarResumen() {
+  try {
+    const respuesta = await fetch("/api/resumen")
+    const resumen = await respuesta.json()
+
+    contenedorResumen.innerHTML = ""
+
+    const tarjeta = document.createElement("article")
+    tarjeta.classList.add("tarjeta-mensaje")
+
+    tarjeta.innerHTML = `
+      <h3>Resumen del proyecto</h3>
+      <p>Total de mensajes: ${resumen.totalMensajes}</p>
+      <p>Total de piezas del calendario: ${resumen.totalPiezasCalendario}</p>
+      <p>Categorías encontradas: ${resumen.categoriasMensajes.join(", ")}</p>
+      <p>${resumen.mensaje}</p>
+    `
+
+    contenedorResumen.appendChild(tarjeta)
+  } catch (error) {
+    contenedorResumen.textContent = "No fue posible cargar el resumen. Revisa que el servidor esté funcionando."
   }
 }

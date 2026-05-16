@@ -1,0 +1,73 @@
+Mapa del flujo Frontend-Backend – Clase 23
+
+Nombre del estudiante: David Casanova
+Fecha: 15 de mayo del 2026
+Nombre de la rama: david_casanova
+
+Completa el flujo con tus palabras.
+
+1. Frontend
+
+¿Qué parte del proyecto corresponde al frontend?
+
+Respuesta: Todo lo visual, El titulo, la descripcion, tablero, calendario, resumen y los botones
+que a su vez cargan mas informacion. 
+
+2. Backend
+
+¿Qué parte del proyecto corresponde al backend?
+
+Respuesta: El backend corresponde al servidor creado con Express, 
+las rutas API y la lógica que lee los archivos JSON para responder solicitudes.
+
+3. API propia
+
+¿Qué rutas expone la API propia del proyecto?
+
+Respuesta: 
+
+GET /api/mensajes
+GET /api/calendario
+
+4. Datos
+
+¿Qué archivos JSON usa el backend para responder?
+
+Respuesta: El backend utiliza los archivos mensajes.json y calendario-editorial.json ubicados en la carpeta data.
+
+5. Consulta desde frontend
+
+¿Qué función de JavaScript se usa para consultar la API?
+
+Respuesta: Se utiliza la función fetch() para consultar las rutas de la API.
+
+6. Espera de respuesta
+
+¿Qué palabras se usan para esperar la respuesta del servidor?
+
+Respuesta: Se utilizan las palabras async y await.
+
+7. Conversión de respuesta
+
+¿Qué hace respuesta.json()?
+
+Respuesta: Convierte la respuesta recibida del servidor en un objeto JavaScript utilizable.
+
+8. Render dinámico
+
+¿Qué significa mostrar datos dinámicamente en el tablero?
+
+Respuesta: Significa que la información aparece automáticamente desde la API sin escribir el contenido manualmente en el HTML.
+
+9. Prueba
+
+¿Cómo verificaste que la información del tablero coincide con la API?
+
+Respuesta: Comparé los datos mostrados en el tablero con la respuesta JSON obtenida directamente desde las rutas de la API en el navegador.
+
+10. Propósito comunitario
+
+¿Cómo ayuda esta integración a mantener información comunitaria actualizable?
+
+Respuesta: Permite actualizar mensajes y contenido comunitario desde los archivos JSON sin modificar el frontend, facilitando mantener \
+información útil, organizada y dinámica para la comunidad.

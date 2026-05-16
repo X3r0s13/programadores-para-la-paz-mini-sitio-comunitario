@@ -10,25 +10,22 @@
   <header>
     <h1>Mini-sitio comunitario</h1>
     <p>
-      Proyecto único de Semana 5 para difusión responsable, calendario editorial y tablero de mensajes.
+      Proyecto único de Semana 5 para difusión responsable, calendario editorial e integración Frontend-Backend.
     </p>
   </header>
 
   <main>
     <section>
-      <h2>Proyecto vivo en GitHub</h2>
+      <h2>Integración Frontend-Backend</h2>
       <p>
-        La rama main será actualizada por los docentes. Cada estudiante trabajará en su rama personal.
-      </p>
-      <p>
-        Desde esta clase practicamos cómo traer mejoras del proyecto base y mantener la trazabilidad.
+        El frontend consulta la API propia del backend y muestra información dinámica para la comunidad.
       </p>
     </section>
 
     <section>
       <h2>Tablero de mensajes comunitarios</h2>
       <p>
-        Esta sección funciona como vitrina comunitaria. Debe mostrar información clara, legible y segura.
+        Esta sección funciona como vitrina comunitaria. Los mensajes se cargan desde la API propia.
       </p>
       <button id="btnMensajes">Cargar tablero de mensajes</button>
       <div id="contenedorMensajes" class="tablero">
@@ -39,7 +36,7 @@
     <section>
       <h2>Calendario editorial</h2>
       <p>
-        El calendario editorial organiza publicaciones por fecha, tema, canal, público objetivo, responsable y fuente.
+        El calendario editorial se consulta desde el backend y permite organizar publicaciones responsables.
       </p>
       <button id="btnCalendario">Cargar calendario</button>
       <div id="contenedorCalendario" class="tablero">
@@ -47,12 +44,15 @@
       </div>
     </section>
 
-    <section class="aviso-seguridad">
-      <h2>Seguridad visual y minimización de datos</h2>
+    <section>
+      <h2>Resumen de la API propia</h2>
       <p>
-        La vista pública debe mostrar solo la información necesaria para orientar a la comunidad.
-        No debe exponer datos personales innecesarios.
+        Esta sección muestra un resumen generado por el backend a partir de los datos del proyecto.
       </p>
+      <button id="btnResumen">Cargar resumen</button>
+      <div id="contenedorResumen" class="tablero">
+        Aquí aparecerá el resumen del proyecto.
+      </div>
     </section>
   </main>
 

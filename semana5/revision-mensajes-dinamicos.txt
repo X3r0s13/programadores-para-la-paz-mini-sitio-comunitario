@@ -1,0 +1,51 @@
+Revisión editorial de mensajes dinámicos – Clase 23
+
+Nombre del estudiante: David Casanova
+Fecha: 15 de mayo del 2026
+Nombre de la rama: david_casanova
+
+Selecciona un mensaje que aparezca en el tablero y responde.
+
+1. Título del mensaje seleccionado:
+
+Respuesta: Comunicación clara en la comunidad
+
+2. ¿El mensaje se cargó dinámicamente desde la API?
+
+Respuesta: Sí. El mensaje fue obtenido desde la API utilizando datos almacenados en un archivo JSON.
+
+3. ¿El mensaje tiene propósito comunitario?
+
+Respuesta: Sí. El mensaje busca mejorar la comunicación y la convivencia dentro de la comunidad.
+
+4. ¿El mensaje tiene audiencia clara?
+
+Respuesta: Sí. Está dirigido específicamente a líderes comunitarios.
+
+5. ¿El tono es adecuado?
+
+Respuesta: Sí. Utiliza un tono educativo y fácil de comprender.
+
+6. ¿El llamado a la acción es comprensible?
+
+Respuesta: Sí. Invita claramente a compartir información responsable y clara.
+
+7. ¿El mensaje tiene fuente o criterio de verificación?
+
+Respuesta: Sí. Incluye como fuente una guía de comunicación comunitaria.
+
+8. ¿Mantiene consistencia comunicativa con los demás mensajes?
+
+Respuesta: Sí. El mensaje mantiene el mismo enfoque educativo y comunitario del proyecto.
+
+9. ¿Requiere moderación editorial básica antes de publicarse?
+
+Respuesta: Sí. Aunque ya está aprobada la revisión editorial, siempre es importante verificar claridad y redacción antes de publicar.
+
+10. ¿Usa lenguaje responsable y no estigmatizante?
+
+Respuesta: Sí. El mensaje utiliza lenguaje respetuoso, claro y apropiado para la comunidad.
+
+11. Escribe una mejora editorial para el mensaje:
+
+Respuesta: Se podría agregar un ejemplo práctico de comunicación responsable para hacer el mensaje más cercano y fácil de aplicar.

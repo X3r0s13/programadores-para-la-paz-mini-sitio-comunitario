@@ -23,13 +23,13 @@
     },
     {
       "id": 3,
-      "titulo": "Avisos comunitarios claros",
-      "mensaje": "Los avisos deben indicar propósito, fecha, fuente y acción esperada para evitar confusión.",
+      "titulo": "Comunicación clara en la comunidad",
+      "mensaje": "Los mensajes comunitarios deben ser claros, directos y fáciles de entender para evitar malentendidos entre los participantes.",
       "categoria": "convivencia-digital",
       "audiencia": "líderes comunitarios",
-      "tono": "informativo",
-      "llamadoAccion": "Publica avisos con información completa.",
-      "fuente": "Protocolo editorial del curso",
+      "tono": "educativo",
+      "llamadoAccion": "Comparte información clara y responsable.",
+      "fuente": "Guía de comunicación comunitaria",
       "revisionEditorial": "aprobada"
     }
   ]
