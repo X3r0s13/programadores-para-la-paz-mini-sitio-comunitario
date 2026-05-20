@@ -1,53 +1,87 @@
 Procedimiento de ejecución del proyecto – Clase 24
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: David Casanova
+Fecha: 20 de mayo del 2026
+Nombre de la rama: david_casanova
 
 Escribe el procedimiento para que otra persona pueda ejecutar el proyecto.
 
 1. Requisitos del entorno
 
 ¿Qué debe tener instalado la persona?
-Ejemplos: Git, Node.js, navegador, editor de código.
 
 Respuesta:
+
+Git https://git-scm.com
+
+Node.js https://nodejs.org
+
+Navegador web (Chrome, Firefox o Edge)
+
+Visual Studio Code https://code.visualstudio.com
 
 2. Clonar repositorio
 
-Comando:
+Comando: git clone URL_DEL_REPOSITORIO
 
 Respuesta:
+
+1. Copiar la URL del repositorio.
+2. Abrir la terminal.
+3. Pegar el comando.
+4. Presionar Enter.
+5. Esperar a que termine la descarga.
 
 3. Entrar a la carpeta del proyecto
 
-Comando:
+Comando: cd nombre-del-proyecto
 
 Respuesta:
+
+1. Verificar el nombre de la carpeta.
+2. Ejecutar el comando.
+3. Presionar Enter para ingresar al proyecto.
 
 4. Crear o cambiar a rama personal
 
-Comando:
+Comando: git checkout -b nombre-rama
 
 Respuesta:
+
+1. Escribir el nombre de la rama.
+2. Ejecutar el comando.
+3. Git creará y cambiará automáticamente a esa rama.
 
 5. Instalar dependencias
 
-Comando:
+Comando: npm install
 
 Respuesta:
+
+1. Verificar que la terminal esté dentro del proyecto.
+2. Ejecutar el comando.
+3. Esperar a que se instalen las dependencias.
 
 6. Ejecutar el proyecto
 
-Comando:
+Comando: npm run sitio
 
 Respuesta:
+
+1. Ejecutar el comando.
+2. Esperar a que inicie el servidor.
+3. Revisar el puerto mostrado en la terminal.
 
 7. Abrir en navegador
 
-Dirección:
+Dirección: http://localhost:3000
 
 Respuesta:
+
+1. Copiar la dirección mostrada por la terminal.
+2. Abrir el navegador.
+3. Pegar la dirección.
+4. Presionar Enter.
 
 8. Probar rutas de la API
 
@@ -55,13 +89,19 @@ Escribe las rutas que se deben probar:
 
 Respuesta:
 
+GET /api/mensajes | Entrega mensajes comunitarios
+GET /api/calendario | Entrega piezas del calendario editorial
+GET /api/resumen | Entrega un resumen del proyecto
+POST /api/login | Ruta pedagógica de login
+
 9. Probar login pedagógico
 
-Usuario de demostración:
+Usuario de demostración: docente
 
-Clave de demostración:
+Clave de demostración: demo
 
 Resultado esperado:
+El sistema debe permitir el acceso correctamente.
 
 10. Verificación final
 
@@ -69,8 +109,21 @@ Resultado esperado:
 
 Respuesta:
 
+- El servidor inicia sin errores.
+- La página carga correctamente.
+- La API responde.
+- Las rutas cargan correctamente
+- El login funciona.
+
 11. Nota de seguridad
 
 ¿Qué información NO debe publicarse?
 
 Respuesta:
+
+- Contraseñas reales.
+- Tokens.
+- Claves API.
+- Variables .env.
+- Datos privados.
+- Credenciales de base de datos.

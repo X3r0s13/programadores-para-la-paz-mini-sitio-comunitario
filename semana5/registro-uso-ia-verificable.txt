@@ -1,8 +1,8 @@
 Registro de uso verificable de IA – Clase 24
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: David Casanova
+Fecha: 19 de mayo del 2026
+Nombre de la rama: david_casanova
 
 Importante:
 La IA puede ayudar a mejorar claridad, ordenar pasos y revisar redacción, pero toda sugerencia debe verificarse en el proyecto real.
@@ -18,32 +18,36 @@ No debes compartir con IA:
 1. ¿Para qué usaste IA en esta clase?
 Ejemplos: mejorar README, organizar pasos de ejecución, aclarar error, revisar redacción.
 
-Respuesta:
+Respuesta: Para Mejorar considerablemente el README de le mini sitio. 
 
 2. Escribe la pregunta que hiciste a la IA:
 
-Respuesta:
+Respuesta: Como podria mejorar el diseño del documento para que sea de legibilidad sensilla
+y tenga iconos para illustrar cada apartado, para con cansar la vista.
 
 3. Resume la respuesta recibida:
 
-Respuesta:
+Respuesta: Me dijo que mejoro la organizacion de los elementos y tambien el apartado visual
+del mismo.
 
 4. ¿Qué parte de la respuesta aplicaste?
 
-Respuesta:
+Respuesta: Mejorarar la organizacion del documento y la parte visual.
 
 5. ¿Qué parte decidiste no aplicar?
 
-Respuesta:
+Respuesta: me habia añadido cosas que no estaban en el documento original y no me servian
+y los elimine como tecnologias o softwares que no estan en dicho proyecto.
 
 6. ¿Cómo verificaste en el proyecto que la sugerencia era correcta?
 
-Respuesta:
+Respuesta: Que mejoro bastante la forma en la que se lee y entiende el documento README.
 
 7. ¿Incluiste datos sensibles o credenciales reales en la consulta?
 
-Respuesta:
+Respuesta: No, ya que es algo innecesario colocar ese tipo de informacion, ademas de que es
+bastante peligroso hacerlo.
 
 8. ¿Qué aprendiste sobre uso responsable de IA?
 
-Respuesta:
+Respuesta: Que tengo que verificar la informacion antes de colocarla publica.

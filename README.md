@@ -1,42 +1,59 @@
-# Programadores para la Paz – Mini-sitio comunitario
+# 🌍 Programadores para la Paz – Mini-sitio Comunitario
 
-## Proyecto único de Semana 5
+> Proyecto comunitario desarrollado durante la **Semana 5**  
+> Clases 21 a 25
 
-Este repositorio se trabaja desde la Clase 21 hasta la Clase 25.
+Mini-sitio web orientado a la difusión responsable de información comunitaria mediante una API propia y un sistema básico de organización editorial.
 
-## Propósito del proyecto
+---
 
-Construir progresivamente un mini-sitio comunitario que consuma una API propia para mostrar mensajes, calendario editorial y elementos de seguimiento comunitario.
+# 📌 Propósito del proyecto
 
-El proyecto combina tecnología y comunicación responsable para apoyar la difusión de información clara, verificable y orientada a la participación ciudadana.
+Construir progresivamente un mini-sitio comunitario que permita:
 
-## Enfoque ciudadano
+- Mostrar mensajes comunitarios
+- Gestionar un calendario editorial
+- Consumir información desde una API propia
+- Mantener una comunicación clara y verificable
+- Aplicar buenas prácticas básicas de desarrollo web
 
-Este proyecto trabaja:
+El proyecto combina tecnología y comunicación responsable para apoyar procesos de participación ciudadana.
 
-- Difusión responsable
-- Calendario editorial
-- Revisión de fuentes
-- Consistencia comunicativa
-- Moderación editorial básica
-- Accesibilidad mínima
-- Minimización de datos visibles
-- Lenguaje responsable y no estigmatizante
-- Transferencia tecnológica
-- Documentación como transparencia
+---
 
-## Tecnologías utilizadas
+# 🏛️ Enfoque ciudadano
 
-- Node.js
-- Express
-- HTML
-- CSS
-- JavaScript
-- JSON
-- Git
-- GitHub
+Este proyecto trabaja principios como:
 
-## Estructura del proyecto
+- ✅ Difusión responsable
+- ✅ Calendario editorial
+- ✅ Revisión de fuentes
+- ✅ Consistencia comunicativa
+- ✅ Moderación editorial básica
+- ✅ Accesibilidad mínima
+- ✅ Minimización de datos visibles
+- ✅ Lenguaje responsable y no estigmatizante
+- ✅ Transferencia tecnológica
+- ✅ Documentación como transparencia
+
+---
+
+# 🛠️ Tecnologías utilizadas
+
+| Tecnología | Uso |
+|---|---|
+| Node.js | Servidor backend |
+| Express | Manejo de rutas |
+| HTML | Estructura del sitio |
+| CSS | Estilos visuales |
+| JavaScript | Interactividad |
+| JSON | Almacenamiento de datos |
+| Git | Control de versiones |
+| GitHub | Trabajo colaborativo |
+
+---
+
+# 📂 Estructura del proyecto
 
 ```text
 .
@@ -51,56 +68,198 @@ Este proyecto trabaja:
 │   └── styles.css
 ├── semana5/
 └── instrucciones/
-Instalación
-Clonar el repositorio:
+```
+
+---
+
+# ⚙️ Instalación
+
+## 1️⃣ Clonar el repositorio
+
+```bash
 git clone URL_DEL_REPOSITORIO
-Entrar al proyecto:
+```
+
+## 2️⃣ Entrar al proyecto
+
+```bash
 cd programadores-para-la-paz-mini-sitio-comunitario
-Crear rama personal:
+```
+
+## 3️⃣ Crear rama personal
+
+```bash
 git checkout -b nombres_apellidos
-Instalar dependencias:
+```
+
+## 4️⃣ Instalar dependencias
+
+```bash
 npm install
-Ejecutar el proyecto:
+```
+
+---
+
+# ▶️ Ejecución del proyecto
+
+## Iniciar el servidor
+
+```bash
 npm run sitio
-Abrir en el navegador:
+```
+
+## Abrir en el navegador
+
+```text
 http://localhost:3000
-Rutas de la API
-GET /api/mensajes
-Entrega los mensajes comunitarios.
-GET /api/calendario
-Entrega las piezas del calendario editorial.
-GET /api/resumen
-Entrega un resumen básico del proyecto.
-POST /api/login
-Ruta pedagógica de login.
-Importante:
-Esta ruta es solo para aprendizaje. No representa autenticación real ni debe usarse en producción.
-Credenciales de demostración:
+```
+
+---
+
+# 🔌 Rutas de la API
+
+| Método | Ruta | Descripción |
+|---|---|---|
+| GET | `/api/mensajes` | Entrega mensajes comunitarios |
+| GET | `/api/calendario` | Entrega piezas del calendario editorial |
+| GET | `/api/resumen` | Entrega un resumen del proyecto |
+| POST | `/api/login` | Ruta pedagógica de login |
+
+---
+
+# 🔐 Login pedagógico
+
+⚠️ **Importante**
+
+Esta ruta existe únicamente con fines educativos.
+
+- No representa autenticación real
+- No debe utilizarse en producción
+- No almacena sesiones reales
+- No implementa seguridad avanzada
+
+## Credenciales de demostración
+
+```text
 usuario: docente
 clave: demo
-Flujo de trabajo con Git
-La rama main es actualizada por docentes.
-Cada estudiante trabaja en su rama personal:
-git checkout nombres_apellidos
-Al iniciar cada clase:
+```
+
+---
+
+# 🌱 Flujo de trabajo con Git
+
+La rama `main` es actualizada por docentes.
+
+Cada estudiante debe trabajar únicamente en su rama personal.
+
+---
+
+## 📥 Al iniciar cada clase
+
+### Ir a main
+
+```bash
 git checkout main
+```
+
+### Descargar cambios nuevos
+
+```bash
 git pull --ff-only origin main
+```
+
+### Volver a la rama personal
+
+```bash
 git checkout nombres_apellidos
+```
+
+### Fusionar cambios actualizados
+
+```bash
 git merge main
-Al terminar cada clase:
+```
+
+---
+
+## 📤 Al terminar cada clase
+
+### Revisar archivos modificados
+
+```bash
 git status
+```
+
+### Agregar cambios
+
+```bash
 git add .
+```
+
+### Crear commit
+
+```bash
 git commit -m "Mensaje claro del avance"
+```
+
+### Subir cambios
+
+```bash
 git push
-Uso responsable de IA
-La IA puede ayudar a mejorar redacción, organizar pasos y aclarar errores.
-No se debe usar IA para publicar:
-credenciales reales
-tokens reales
-datos personales
-información sensible de la comunidad
-contenido sin verificar
-Toda sugerencia de IA debe revisarse y probarse antes de aceptarse.
-Evidencia
-La evidencia se registra únicamente con el push de la rama personal en GitHub.
-No se deben entregar capturas, archivos adicionales ni enlaces por Moodle.
+```
+
+---
+
+# 🤖 Uso responsable de IA
+
+La IA puede ayudar a:
+
+- Mejorar redacción
+- Organizar pasos
+- Explicar errores
+- Comprender conceptos técnicos
+- Revisar estructura del proyecto
+- Detectar errores básicos
+
+## 🚫 No se debe usar IA para publicar
+
+- Credenciales reales
+- Tokens reales
+- Datos personales
+- Información sensible de la comunidad
+- Contenido sin verificar
+
+Toda sugerencia generada por IA debe revisarse, probarse y validarse antes de aceptarse.
+
+---
+
+# 📌 Evidencia
+
+La evidencia oficial del proyecto corresponde únicamente al:
+
+✅ Push realizado en la rama personal de GitHub.
+
+## ❌ No se deben entregar
+
+- Capturas de pantalla
+- Archivos adicionales
+- Enlaces externos
+- Entregas por Moodle
+
+---
+
+# 💡 Recomendaciones
+
+- Mantener commits claros y descriptivos
+- Probar las rutas antes de hacer push
+- Verificar el funcionamiento del servidor
+- Documentar cambios importantes
+- Evitar subir archivos innecesarios
+- Mantener una estructura organizada
+
+---
+
+# 📖 Nota final
+
+Este proyecto busca fortalecer tanto habilidades técnicas como prácticas responsables de comunicación digital y trabajo colaborativo.
