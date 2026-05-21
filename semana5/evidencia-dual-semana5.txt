@@ -1,8 +1,8 @@
 Evidencia dual de Semana 5 – Clase 25
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: David Casanova
+Fecha: 20 de mayo del 2026
+Nombre de la rama: david_casanova
 
 La evidencia dual de Semana 5 está compuesta por:
 
@@ -10,60 +10,60 @@ La evidencia dual de Semana 5 está compuesta por:
 
 Describe brevemente qué hace el mini-sitio:
 
-Respuesta:
+Respuesta: El mini-sitio muestra mensajes comunitarios y piezas del calendario editorial consumiendo información desde una API propia desarrollada con Node.js y Express.
 
 Rutas probadas:
 
-Respuesta:
+Respuesta: /api/mensajes, /api/calendario, /api/resumen, /api/login y /api/revision-editorial.
 
 2. README versionado en Git
 
 Explica qué información contiene el README:
 
-Respuesta:
+Respuesta: El README contiene el propósito del proyecto, instalación, ejecución, rutas de la API, uso del login pedagógico, middleware, flujo de trabajo con Git y recomendaciones de uso responsable.
 
 3. Calendario editorial de dos semanas
 
 Describe el tema general del calendario editorial:
 
-Respuesta:
+Respuesta: El calendario editorial está orientado a la difusión responsable de información comunitaria y participación ciudadana.
 
 Número de piezas:
 
-Respuesta:
+Respuesta: 6
 
 4. Difusión responsable
 
 ¿Cómo garantiza el proyecto una difusión responsable?
 
-Respuesta:
+Respuesta: El proyecto promueve lenguaje responsable, revisión básica de contenido, accesibilidad mínima y verificación antes de publicar información.
 
 5. Revisión de fuentes
 
 ¿Cómo se revisa o menciona la fuente de la información?
 
-Respuesta:
+Respuesta: El proyecto fomenta validar y revisar la información antes de compartirla para evitar contenido incorrecto o no verificado.
 
 6. Consistencia comunicativa
 
 ¿Cómo se mantiene coherencia entre mensajes y piezas?
 
-Respuesta:
+Respuesta: Se mantiene una estructura organizada, un enfoque comunitario común y criterios editoriales similares en todas las publicaciones.
 
 7. Moderación editorial básica
 
 ¿Qué criterios se deben revisar antes de publicar?
 
-Respuesta:
+Respuesta: Se debe revisar claridad del mensaje, lenguaje adecuado, verificación básica de datos y evitar contenido sensible o estigmatizante.
 
 8. GitHub y trazabilidad
 
 ¿Qué commits o avances registraste durante la semana?
 
-Respuesta:
+Respuesta: Se registraron avances relacionados con creación de rutas, conexión de la API, organización de archivos, mejoras visuales y actualización del README.
 
 9. Conclusión personal
 
 ¿Por qué este proyecto es más completo que un ejercicio técnico aislado?
 
-Respuesta:
+Respuesta: Porque integra desarrollo web, documentación, control de versiones, organización editorial y principios de comunicación responsable en un mismo proyecto colaborativo.

@@ -124,6 +124,7 @@ http://localhost:3000
 | GET | `/api/calendario` | Entrega piezas del calendario editorial |
 | GET | `/api/resumen` | Entrega un resumen del proyecto |
 | POST | `/api/login` | Ruta pedagógica de login |
+| GET | `/api/revision-editorial` | Esta sección permite probar un middleware simple |
 
 ---
 
@@ -137,6 +138,22 @@ Esta ruta existe únicamente con fines educativos.
 - No debe utilizarse en producción
 - No almacena sesiones reales
 - No implementa seguridad avanzada
+
+# 🧩 Middleware simple
+
+El proyecto incluye una ruta protegida pedagógica para demostrar el funcionamiento básico de un middleware en Express.
+
+Primero se debe realizar el login pedagógico y obtener un token de demostración. Luego, ese token permite acceder a la sección de revisión editorial protegida.
+
+## Ruta protegida pedagógica
+
+La ruta protegida permite probar un middleware simple encargado de verificar el acceso a contenido editorial.
+
+## Revisión editorial protegida
+
+```text
+Acceso permitido a la revisión editorial pedagógica.
+```
 
 ## Credenciales de demostración
 

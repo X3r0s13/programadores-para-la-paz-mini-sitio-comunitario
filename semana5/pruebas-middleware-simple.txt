@@ -1,8 +1,8 @@
 Pruebas de middleware simple – Clase 25
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: David Casanova
+Fecha: 20 de mayo del 2026
+Nombre de la rama: david_casanova
 
 Importante:
 Este middleware es pedagógico. No representa seguridad real de producción.
@@ -15,10 +15,10 @@ Abrir el mini-sitio y probar la revisión editorial protegida sin iniciar sesió
 Resultado esperado:
 El sistema debe negar el acceso o indicar que falta token.
 
-Resultado observado:
+Resultado observado: Al momento de darle al boton no carga ninguna informacion.
 
 ¿Funcionó?
-Respuesta:
+Respuesta: No, ya que al no estar logeado, la informacion se oculta.
 
 Prueba 2: Login pedagógico
 
@@ -31,10 +31,10 @@ demo
 Resultado esperado:
 El sistema responde login pedagógico correcto y guarda token de demostración.
 
-Resultado observado:
+Resultado observado: Hace el login correctamente.
 
 ¿Funcionó?
-Respuesta:
+Respuesta: Funciona bien el login.
 
 Prueba 3: Ruta protegida después del login
 
@@ -47,22 +47,22 @@ El sistema permite ver la respuesta de revisión editorial pedagógica.
 Resultado observado:
 
 ¿Funcionó?
-Respuesta:
+Respuesta: Me deja ver la revision editorial protegida despues del login correcto.
 
 Prueba 4: Token incorrecto
 
 Explica qué debería pasar si el token no coincide con el esperado.
 
-Respuesta:
+Respuesta: El acceso debe ser rechazado y no se debe permitir continuar a la ruta protegida.
 
 5. ¿Qué hace el middleware simple?
 
-Respuesta:
+Respuesta: Verifica si el token de demostración es correcto antes de permitir el acceso a la ruta protegida.
 
 6. ¿Por qué este middleware no debe confundirse con seguridad real?
 
-Respuesta:
+Respuesta: Porque es solo una simulación educativa, no usa autenticación real, ni sesiones, ni medidas de seguridad avanzadas.
 
 7. ¿Qué aprendiste sobre rutas públicas y rutas protegidas?
 
-Respuesta:
+Respuesta: Que las rutas públicas se pueden acceder sin validación, mientras que las protegidas requieren una verificación previa para permitir el acceso.

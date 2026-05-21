@@ -1,8 +1,8 @@
 Reflexión de cierre de Semana 5 – Clase 25
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: David Casanova
+Fecha: 20 de mayo del 2026
+Nombre de la rama: david_casanova
 
 Escribe una reflexión de 10 a 12 líneas respondiendo:
 
@@ -43,3 +43,22 @@ En tu respuesta menciona al menos ocho de estas ideas:
 - cultura de paz
 
 Respuesta:
+
+Desde las primeras clases mi forma de trabajar cambió bastante porque al inicio solo hacía ejercicios pequeños y separados usando HTML, CSS y algo de JavaScript. 
+En ese momento todavía no entendía cómo organizar un proyecto completo ni cómo trabajar de manera colaborativa. Con el tiempo aprendí a usar GitHub correctamente 
+y entendí que un repositorio no solo sirve para guardar archivos, sino también para mantener ordenado todo el desarrollo del proyecto. Aprendí a trabajar con la 
+rama main y con mi rama personal para evitar errores y hacer pruebas sin afectar el trabajo principal. También comprendí la importancia de hacer commit frecuentes 
+para guardar avances importantes y usar push para subir los cambios al repositorio remoto.
+
+Otro cambio importante fue aprender a usar git pull para actualizar mi proyecto con los cambios de otros compañeros y entender cómo funciona fast-forward cuando Git 
+integra cambios automáticamente. Cuando aparecieron conflictos o cambios diferentes, aprendí a resolverlos usando git merge, algo que al principio parecía complicado 
+pero después se volvió parte normal del trabajo. Gracias a esto entendí mejor cómo funciona el trabajo colaborativo en proyectos reales.
+
+En la parte de programación también mejoré mucho. Antes solo hacía páginas simples, pero con Node.js y Express aprendí a crear rutas y a trabajar con una API utilizando 
+archivos JSON. Además, entendí cómo usar fetch junto con async y await para obtener información de manera dinámica y mostrar datos en el tablero de mensajes y en el calendario editorial. 
+Eso me ayudó a comprender cómo se conectan el frontend y el backend dentro de un mismo proyecto.
+
+También aprendí que no todo es programar. El README me enseñó la importancia de explicar claramente el proyecto para que otras personas puedan entenderlo y usarlo. 
+El login pedagógico y el middleware simple me ayudaron a entender cómo proteger rutas y controlar accesos básicos dentro de una aplicación. Finalmente, este proyecto 
+me hizo pensar más en la difusión responsable, la revisión de fuentes, la consistencia comunicativa y el uso de un lenguaje responsable y no estigmatizante. 
+Entendí que la tecnología también puede ayudar a fortalecer la participación ciudadana y promover una cultura de paz cuando se usa de manera responsable.
